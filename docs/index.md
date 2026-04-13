@@ -17,7 +17,7 @@ Bem-vindo! Esta página contém os valores de referência para configurar o Mesh
 1. Abra o MeshCore
 2. Acesse as configurações de rádio
 3. Selecione o preset **"Australia: SA, WA"**
-4. Ajuste os parâmetros conforme a tabela acima
+4. Verifique que os parâmetros estão conforme a tabela acima
 5. Salve e reinicie o dispositivo
 
 ## Observações Importantes
