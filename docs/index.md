@@ -22,7 +22,7 @@ Bem-vindo! Esta página contém os valores de referência para configurar o Mesh
 
 ## Observações Importantes
 
-- **Frequência**: A frequência de 923.125 MHz está dentro da faixa de 915–928 MHz, permitida no Brasil para uso ISM (Industrial, Scientific and Medical) conforme regulamentação da Anatel.
+- **Frequência**: A frequência de 923.125 MHz está dentro da faixa de 915–928 MHz, permitida no Brasil para equipamentos de radiação restrita (até 1 watt) conforme regulamentação da Anatel.
 - **Alcance**: Com SF 8 e banda estreita de 62.5 kHz, você terá um bom equilíbrio entre alcance e taxa de dados.
 - **Interferência**: Evite canais congestionados e verifique se há outros dispositivos LoRa operando na mesma frequência na sua região.
 

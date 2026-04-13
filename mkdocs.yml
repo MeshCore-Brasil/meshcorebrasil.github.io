@@ -3,6 +3,7 @@ theme:
   name: landing
   custom_dir: overrides
   avatar: assets/repeater.png
+  toc_level: 2
   tagline: |
     Brasil
   header_layout: 
