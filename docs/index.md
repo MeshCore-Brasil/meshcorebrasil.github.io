@@ -26,10 +26,19 @@ Bem-vindo! Esta página contém os valores de referência para configurar o Mesh
 - **Alcance**: Com SF 8 e banda estreita de 62.5 kHz, você terá um bom equilíbrio entre alcance e taxa de dados.
 - **Interferência**: Evite canais congestionados e verifique se há outros dispositivos LoRa operando na mesma frequência na sua região.
 
-## Recursos Úteis
 
-- [Documentação oficial do MeshCore](https://github.com/meshtastic/firmware)
-- [Mapa de nós MeshCore no Brasil](https://meshtastic.liy.app/)
+## Comunidade no Brasil
+
+Entre no nosso grupo do Telegram para obter os links atualizados dos canais brasileiros!  **[@MeshCoreBrasil](https://t.me/meshcorebrasil)**
+
+- 💬 Tire dúvidas com outros usuários
+- 🗺️ Mapeie nós da sua região
+- 📢 Receba atualizações e avisos
+- 🤝 Faça contatos locais
+
+## Links
+
+- [Mapa de nós MeshCore no Brasil](https://map.meshcore.io/?zoom=5&lat=-14.8600&lon=-57.1289)
 
 ---
 
