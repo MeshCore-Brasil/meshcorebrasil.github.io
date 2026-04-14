@@ -1,16 +1,17 @@
 site_name: MeshCore
 theme:
+  favicon: favicon.png
   name: landing
   custom_dir: overrides
   avatar: assets/repeater.png
   toc_level: 2
+  share_btn: false
   tagline: |
     Brasil
   header_layout: 
     - avatar
     - title
     - tagline
-    - socials
   # colors
   primary_color: "#d9a35d"
   secondary_color: "#4862a6"
@@ -32,10 +33,11 @@ theme:
   text_color_dark: "#f2f2f2"
   hltext_color_dark: "#161616"
 
-plugins:
-  - search
 markdown_extensions:
   - admonition
 
 nav:
-  - Sobre: sobre.md
+  - Sobre: index.md
+
+extra_css:
+  - styles/extra.css
