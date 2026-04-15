@@ -1,8 +1,4 @@
-# Configuração do MeshCore para o Brasil
-
-Bem-vindo! Esta página contém os valores de referência para configurar o MeshCore no Brasil.
-
-## Parâmetros de Rádio LoRa
+## Configuração Recomendada
 
 | Parâmetro | Valor |
 |-----------|-------|
@@ -12,22 +8,15 @@ Bem-vindo! Esta página contém os valores de referência para configurar o Mesh
 | **Spreading Factor (SF)** | 8 |
 | **Coding Rate (CR)** | 8 |
 
-## Como Configurar
+## Passo-a-passo
 
-1. Abra o MeshCore
-2. Acesse as configurações de rádio
-3. Selecione o preset **"Australia: SA, WA"**
-4. Verifique que os parâmetros estão conforme a tabela acima
-5. Salve e reinicie o dispositivo
+1. Abra o MeshCore e conecte-se ao seu dispositivo
+2. Clique no ícone ⚙️ na barra superior
+3. Em **Radio Settings**, clique em **Choose Preset** e selecione **"Australia: SA, WA"**
+4. Verifique se os parâmetros estão conforme a tabela acima
+5. Clique no ícone ✔ no canto superior direito da tela
 
-## Observações Importantes
-
-- **Frequência**: A frequência de 923.125 MHz está dentro da faixa de 915–928 MHz, permitida no Brasil para equipamentos de radiação restrita (até 1 watt) conforme regulamentação da Anatel.
-- **Alcance**: Com SF 8 e banda estreita de 62.5 kHz, você terá um bom equilíbrio entre alcance e taxa de dados.
-- **Interferência**: Evite canais congestionados e verifique se há outros dispositivos LoRa operando na mesma frequência na sua região.
-
-
-## Comunidade no Brasil
+## Canal no Telegram
 
 Entre no nosso grupo do Telegram para obter os links atualizados dos canais brasileiros!  **[@MeshCoreBrasil](https://t.me/meshcorebrasil)**
 
