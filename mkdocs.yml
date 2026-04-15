@@ -1,4 +1,5 @@
 site_name: MeshCore
+site_url: https://meshcore-brasil.github.io
 theme:
   favicon: favicon.png
   name: landing
@@ -43,11 +44,6 @@ extra_css:
   - styles/extra.css
 
 plugins:
-  - social:
-      cards_layout: default
-      cards_layout_options:
-        background_color: "#212530"
-        color: "#d9a35d"
   - git-revision-date-localized:
       enable_creation_date: false
       type: date
