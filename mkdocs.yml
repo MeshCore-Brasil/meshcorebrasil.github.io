@@ -41,3 +41,16 @@ nav:
 
 extra_css:
   - styles/extra.css
+
+plugins:
+  - social:
+      cards_layout: default
+      cards_layout_options:
+        background_color: "#212530"
+        color: "#d9a35d"
+  - git-revision-date-localized:
+      enable_creation_date: false
+      type: date
+  - git-committers:
+      repository: MeshCore-Brasil/meshcore-brasil.github.io
+      branch: main
