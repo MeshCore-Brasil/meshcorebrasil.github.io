@@ -25,9 +25,11 @@ Entre no nosso grupo do Telegram para obter os links atualizados dos canais bras
 - 📢 Receba atualizações e avisos
 - 🤝 Faça contatos locais
 
-## Links
+## Ferramentas Úteis
 
 - [Mapa de nós MeshCore no Brasil](https://map.meshcore.io/?zoom=5&lat=-14.8600&lon=-57.1289)
+- [Elevation Finder](https://droidgren.github.io/elevation_finder/): Mostra os pontos mais altos numa determinada região.
+- [Rservis](https://nbp.rservis.net/): Calculadora de visada, exibe também Zona de Fresnel para frequência escolhida.
 
 ---
 
