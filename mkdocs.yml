@@ -38,10 +38,14 @@ markdown_extensions:
   - admonition
 
 nav:
-  - Índice: index.md
+  - Brasil: index.md
+  - Normalizador de Nomes para Repetidoras: normalizador-de-nomes-repetidoras.md
 
 extra_css:
   - styles/extra.css
+
+extra_javascript:
+  - js/repeater-name-generator.js
 
 plugins:
   - git-revision-date-localized:
